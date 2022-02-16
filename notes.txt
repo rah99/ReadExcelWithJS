@@ -1,0 +1,1 @@
+1.  To read excel using JS requires a Node package: npm install xlsx
